@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RITBDreamSky
+- 👋 Hi, I’m @GameDevDreamSky
 - 👀 I’m interested in video game,manga
 - 🌱 I’m currently learning in school how to create video game
 - 💞️ I’m looking to collaborate on video game
